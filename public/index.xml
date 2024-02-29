@@ -1,13 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warsames blog</title>
-    <link>https://osman245.github.io/blogz/</link>
+    <link>http://localhost:1313/blogz/</link>
     <description>Recent content on Warsames blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-        <atom:link href="https://osman245.github.io/blogz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 17 Jan 2024 07:50:34 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full-stack-development</title>
+      <link>http://localhost:1313/blogz/second/</link>
+      <pubDate>Wed, 17 Jan 2024 07:50:34 -0500</pubDate>
+      <guid>http://localhost:1313/blogz/second/</guid>
+      <description>Reviewing some web development through this course, its been awhile since ive done web development. Course has been great so far..</description>
+    </item>
   </channel>
 </rss>
