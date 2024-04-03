@@ -8,7 +8,6 @@ tags: []
 toc: false
 author: ""
 ---
-Title: Enhancing AWS Security: Transitioning to IMDSv2 and Implementing Best Practices
 
 Are you leveraging the full potential of AWS security features? In this post, we'll dive into the importance of transitioning to IMDSv2 and implementing best practices for secure AWS API requests. Let's explore how you can enhance your AWS security posture.
 
