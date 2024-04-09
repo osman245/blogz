@@ -1,5 +1,5 @@
 ---
-title: "Ecr"
+title: "ECR,ECS, AWS Fargate"
 date: 2024-04-09T00:05:30-04:00
 draft: false
 
