@@ -1,7 +1,7 @@
 ---
 title: "Ecr"
 date: 2024-04-09T00:05:30-04:00
-draft: true
+draft: false
 
 categories: []
 tags: []
