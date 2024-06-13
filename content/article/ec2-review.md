@@ -1,7 +1,7 @@
 ---
-title: "Ec2 Review"
+title: "EC2 Review"
 date: 2024-06-13T16:14:07-04:00
-draft: true
+draft: false
 
 categories: []
 tags: []

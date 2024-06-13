@@ -1,7 +1,7 @@
 ---
 title: "Iam Review"
 date: 2024-06-13T15:20:49-04:00
-draft: true
+draft: false
 
 categories: []
 tags: []
