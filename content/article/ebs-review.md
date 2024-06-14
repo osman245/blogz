@@ -77,5 +77,10 @@ By following these best practices and understanding the intricacies of Amazon EB
 
 ##### EBS Table
 
-![EBS](/ebs-image.png 'EBS')
+![EBS(/ebs-image.png 'EBS')]
+
+
+Elastic Instance Store has the best performance highest I/O but is ephermal
+
+
 
