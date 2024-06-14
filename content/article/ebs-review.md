@@ -74,3 +74,8 @@ To help you prepare for the AWS Certified Developer Associate exam, here are som
 4. **You cannot enable encryption on an existing unencrypted volume**. Create a snapshot and copy it as a new encrypted volume.
 
 By following these best practices and understanding the intricacies of Amazon EBS, you can optimize your cloud storage strategy to ensure performance, reliability, and security for your applications.
+
+##### EBS Table
+
+![EBS](/ebs-image.png 'EBS')
+
